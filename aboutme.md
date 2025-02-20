@@ -11,9 +11,9 @@ subtitle: A Passionate Software Developer & Data Enthusiast
 ---
 
 ### **About Me**  
-I am a final-year **BSc (Hons) Software Systems Development** student at **South East Technological University (SETU), Waterford**, with a strong passion for **data science and software engineering**. I possess a solid foundation in **programming, data analysis, system architectures, and software development**. My experience includes working in **collaborative, agile-driven environments** and participating in **international projects through Erasmus**.  
+I am a final-year BSc (Hons) Software Systems Development student at South East Technological University (SETU), Waterford, with a strong passion for data science and software engineering. I possess a solid foundation in programming, data analysis, system architectures, and software development. My experience includes working in collaborative, agile-driven environments and participating in international projects through Erasmus.  
 
-I am seeking to further **enhance my expertise in data science and software engineering** with hands-on experience in real-world applications.  
+I am seeking to further enhance my expertise in data science and software engineering with hands-on experience in real-world applications.  
 
 ---
 
@@ -44,34 +44,34 @@ I am seeking to further **enhance my expertise in data science and software engi
 ---
 
 ### **Final Year Project**  
-🔹 Designed and implemented a **progressive web app** to consolidate all operational needs of a **GAA Club**.  
+🔹 Designed and implemented a progressive web app to consolidate all operational needs of a GAA Club.  
 🔹 **Tools & Technologies:** React, Node.js, AWS, MongoDB, Git, Agile methodology.  
 
 ---
 
 ### **Erasmus - Data-Driven Innovation**  
 📍 University of Applied Sciences Windesheim, Zwolle, Netherlands | **Aug 2023 – Jan 2024**  
-✅ Collaborated with a team of five students on a **20-week client-based project** to develop a **university platform** for managing student data and staff roles.  
-✅ Utilized **Python and Excel** for data organization and **Mendix** for platform development.  
-✅ Gained hands-on experience through **coaching sessions and workshops**.  
+✅ Collaborated with a team of five students on a 20-week client-based project** to develop a university platform for managing student data and staff roles.  
+✅ Utilized Python and Excel for data organization and Mendix for platform development.  
+✅ Gained hands-on experience through coaching sessions and workshops.  
 
 ---
 
 ### **Projects**  
 #### **GAA Club Management Web App**  
-- Developing a **progressive web app** using **React (frontend) and Node.js (backend)**.  
-- Integrated **MongoDB** for database management and **AWS** for deployment, ensuring **scalability and reliability**.  
+- Developing a progressive web app using React (frontend) and Node.js (backend).  
+- Integrated MongoDB for database management and AWS for deployment, ensuring scalability and reliability.  
 
 #### **Erasmus University Project**  
-- Developed a **low-code platform** for managing student and staff data.  
-- Gained experience with **Python scripting, Agile methodologies, and user-centered design**.  
+- Developed a low-code platform for managing student and staff data.  
+- Gained experience with Python scripting, Agile methodologies, and user-centered design.  
 
 ---
 
 ### **Interests**  
-💡 **Data Science, AI, Predictive Analytics, Data Visualization, Performance Optimization**  
-💻 **Exploring new technologies** and methodologies in **software development and data science**  
-🌍 **Traveling** and experiencing different cultures, particularly in **technology-driven environments**  
+💡 Data Science, AI, Predictive Analytics, Data Visualization, Performance Optimization 
+💻 Exploring new technologies and methodologies in software development and data science 
+🌍 Traveling and experiencing different cultures, particularly in technology-driven environments  
 
 ---
 
